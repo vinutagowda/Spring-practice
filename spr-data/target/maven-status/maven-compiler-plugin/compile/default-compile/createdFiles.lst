@@ -1,0 +1,10 @@
+com\waq\training\place\PlaceService.class
+com\waq\training\user\UserService.class
+com\waq\training\user\UserController.class
+com\waq\training\RestConfig.class
+com\waq\training\user\UserP.class
+com\waq\training\user\UserRepository.class
+com\waq\training\place\PlaceController.class
+com\waq\training\SprDataApplication.class
+com\waq\training\place\PlaceP.class
+com\waq\training\place\PlaceRepository.class
